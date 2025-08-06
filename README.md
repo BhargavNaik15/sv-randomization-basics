@@ -33,15 +33,15 @@ You can simulate this code using any SystemVerilog simulator such as:
 - Or online using EDA Playground
 
 ## 📸 Sample Output
-[0] Before Randomize
-[0] After Randomize
-Randomized Values : src = 4, dest = 6, data = 185
-[0] Before Randomize
-[0] After Randomize
-Randomized Values : src = 2, dest = 8, data = 91
-[0] Before Randomize
-[0] After Randomize
-Randomized Values : src = 0, dest = 2, data = 58
-[0] Before Randomize
-[0] After Randomize
-Randomized Values : src = 0, dest = 8, data = 7
+- [0] Before Randomize
+  [0] After Randomize
+  Randomized Values : src = 4, dest = 6, data = 185
+- [0] Before Randomize
+  [0] After Randomize
+  Randomized Values : src = 2, dest = 8, data = 91
+- [0] Before Randomize
+  [0] After Randomize
+  Randomized Values : src = 0, dest = 2, data = 58
+- [0] Before Randomize
+  [0] After Randomize
+  Randomized Values : src = 0, dest = 8, data = 7
