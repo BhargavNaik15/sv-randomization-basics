@@ -27,10 +27,10 @@ This repository contains a SystemVerilog example that demonstrates key OOP and r
 
 ##▶️ How to Run
 You can simulate this code using any SystemVerilog simulator such as:
--Synopsys VCS
--Cadence Xcelium
--Mentor Questa
--Or online using EDA Playground
+- Synopsys VCS
+- Cadence Xcelium
+- Mentor Questa
+- Or online using EDA Playground
 
 ## 📸 Sample Output
 [0] Before Randomize
